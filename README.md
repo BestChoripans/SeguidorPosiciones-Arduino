@@ -1,2 +1,3 @@
-# SeguidorPosiciones-Arduino
-Arduino Line Follower with Position
+# Seguidor de linea usando Posiciones
+
+Para los papuss
